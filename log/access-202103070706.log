@@ -1,0 +1,2 @@
+::ffff:74.120.14.40 - - [07/Mar/2021:05:06:06 +0000] "GET / HTTP/1.1" 200 1789 "-" "-"
+::ffff:74.120.14.40 - - [07/Mar/2021:05:06:06 +0000] "GET / HTTP/1.1" 200 1789 "-" "Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)"
